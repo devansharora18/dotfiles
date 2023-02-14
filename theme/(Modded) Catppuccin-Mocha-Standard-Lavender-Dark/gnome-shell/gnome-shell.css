@@ -5008,3 +5008,11 @@ StWidget.focused .app-well-app-running-dot {
 .icon-button>StIcon {
     icon-size: 1.09em;
 }
+
+.flat.icon-button {
+    background-color: #b4befe;
+}
+.flat.icon-button:hover {
+    color: #cdd6f4;
+    background-color: rgba(255, 255, 255, 0.05);
+}
