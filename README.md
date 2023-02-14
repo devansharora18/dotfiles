@@ -14,3 +14,6 @@
 <a href='https://extensions.gnome.org/extension/1460/vitals/'> Vitals </a>
 <br>
 <a href='https://github.com/pop-os/shell'> Pop Shell </a>
+
+
+## Music player: <a href = 'https://flathub.org/apps/details/io.bassi.Amberol'> Amberol </a>
