@@ -3,7 +3,7 @@
     bg-col-light: #1e1e2e;
     border-col: #1e1e2e;
     selected-col: #1e1e2e;
-    blue: #89b4fa;
+    blue: #bbc4fe;
     fg-col: #cdd6f4;
     fg-col2: #f38ba8;
     grey: #6c7086;
@@ -20,7 +20,8 @@ element-text, element-icon , mode-switcher {
 window {
     height: 360px;
     border: 3px;
-    border-color: @border-col;
+    border-color: @blue;
+	border-radius: 9;
     background-color: @bg-col;
 }
 
