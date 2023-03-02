@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=X-GNOME-Metatheme
-Name=MonoTheme - Catppuccin (Mocha: Lavender)
-Comment=index.theme
-Encoding=UTF-8
-
-[X-GNOME-Metatheme]
-GtkTheme=MonoThemeDark
-ButtonLayout=close,minimize,maximize:menu
