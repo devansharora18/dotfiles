@@ -1,5 +1,7 @@
 # Dotfiles
  
+ # Old rices are on releases page
+ 
 # Preview:
 
 ![gnome-rice](https://user-images.githubusercontent.com/68769374/222545699-f826acc0-abe1-431e-806b-89e9bb3720da.png)
