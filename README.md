@@ -2,7 +2,7 @@
  
 # Preview:
 
-![unixporn](https://user-images.githubusercontent.com/68769374/218696674-627f5719-9553-4a97-9f05-d7b66d50835a.png)
+![gnome-rice](https://user-images.githubusercontent.com/68769374/222545699-f826acc0-abe1-431e-806b-89e9bb3720da.png)
 
 # Extensions:
 <a href='https://extensions.gnome.org/extension/5338/aylurs-widgets/'> Aylurs-widgets </a>
