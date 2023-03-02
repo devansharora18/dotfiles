@@ -16,6 +16,10 @@
 <a href='https://extensions.gnome.org/extension/1460/vitals/'> Vitals </a>
 <br>
 <a href='https://github.com/pop-os/shell'> Pop Shell </a>
+<br>
+<a href='https://extensions.gnome.org/extension/5090/space-bar/'> Space Bar </a>
+<br>
+<a href='https://extensions.gnome.org/extension/4356/top-bar-organizer/'> Top Bar Organizer </a>
 
 
 ## Music player: <a href = 'https://flathub.org/apps/details/io.bassi.Amberol'> Amberol </a>
