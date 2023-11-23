@@ -4,18 +4,16 @@
  
 # Preview:
 
-![gnome-rice](https://user-images.githubusercontent.com/68769374/222545699-f826acc0-abe1-431e-806b-89e9bb3720da.png)
+![Alt text](image.png)
 
 # Extensions:
-<a href='https://extensions.gnome.org/extension/5338/aylurs-widgets/'> Aylurs-widgets </a>
+<a href='https://extensions.gnome.org/extension/4481/forge/'> Forge </a>
 <br>
 <a href='https://extensions.gnome.org/extension/4451/logo-menu/'> Logo Menu </a>
 <br>
-<a href='https://extensions.gnome.org/extension/5237/rounded-window-corners/'> Rounded Window Corners </a>
-<br>
 <a href='https://extensions.gnome.org/extension/1460/vitals/'> Vitals </a>
 <br>
-<a href='https://github.com/pop-os/shell'> Pop Shell </a>
+<a href='https://extensions.gnome.org/extension/3193/blur-my-shell/'> Blur My Shell </a>
 <br>
 <a href='https://extensions.gnome.org/extension/5090/space-bar/'> Space Bar </a>
 <br>
