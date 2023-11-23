@@ -4,7 +4,7 @@
  
 # Preview:
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
 
 # Extensions:
 <a href='https://extensions.gnome.org/extension/4481/forge/'> Forge </a>
