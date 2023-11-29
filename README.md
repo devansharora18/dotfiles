@@ -4,7 +4,7 @@
  
 # Preview:
 
-![Alt text](image-2.png)
+![image](https://github.com/ART3MISTICAL/dotfiles/assets/68769374/7b2a06b2-67d6-4ced-b558-a6fdc142cd05)
 
 # Extensions:
 <a href='https://extensions.gnome.org/extension/4481/forge/'> Forge </a>
