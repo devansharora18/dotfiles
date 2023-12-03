@@ -1,0 +1,56 @@
+[global_config]
+  window_state = maximise
+  always_on_top = True
+[keybindings]
+  zoom_in = <Primary>equal
+[profiles]
+  [[default]]
+    background_color = "#181926"
+    background_darkness = 0.7
+    background_type = transparent
+    cursor_fg_color = "#000000"
+    cursor_bg_color = "#aaaaaa"
+    show_titlebar = False
+    scrollbar_position = hidden
+    palette = "#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
+    login_shell = True
+    use_custom_command = True
+    custom_command = fish
+  [[Catppuccin_Latte]]
+    background_color = "#eff1f5"
+    background_image = None
+    foreground_color = "#4c4f69"
+    palette = "#5c5f77:#d20f39:#40a02b:#df8e1d:#1e66f5:#ea76cb:#179299:#acb0be:#6c6f85:#d20f39:#40a02b:#df8e1d:#1e66f5:#ea76cb:#179299:#bcc0cc"
+  [[Catppuccin_Frappe]]
+    background_color = "#303446"
+    background_image = None
+    foreground_color = "#c6d0f5"
+    palette = "#51576d:#e78284:#a6d189:#e5c890:#8caaee:#f4b8e4:#81c8be:#b5bfe2:#626880:#e78284:#a6d189:#e5c890:#8caaee:#f4b8e4:#81c8be:#a5adce"
+  [[Catppuccin_Macchiato]]
+    background_color = "#24273a"
+    background_image = None
+    foreground_color = "#cad3f5"
+    palette = "#494d64:#ed8796:#a6da95:#eed49f:#8aadf4:#f5bde6:#8bd5ca:#b8c0e0:#5b6078:#ed8796:#a6da95:#eed49f:#8aadf4:#f5bde6:#8bd5ca:#a5adcb"
+  [[Catppuccin_Mocha]]
+    icon_bell = False
+    background_color = "#1e1e2e"
+    background_darkness = 0.6
+    background_type = transparent
+    background_image = None
+    font = FiraCode Nerd Font 13
+    foreground_color = "#cdd6f4"
+    show_titlebar = False
+    scrollbar_position = hidden
+    palette = "#45475a:#f38ba8:#a6e3a1:#f9e2af:#89b4fa:#f5c2e7:#94e2d5:#bac2de:#585b70:#f38ba8:#a6e3a1:#f9e2af:#89b4fa:#f5c2e7:#94e2d5:#a6adc8"
+    use_custom_command = True
+    custom_command = fish
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
